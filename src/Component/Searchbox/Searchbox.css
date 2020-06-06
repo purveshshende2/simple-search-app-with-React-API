@@ -1,0 +1,15 @@
+@media screen and (max-width: 600px) {
+    .pa2, .pa2 input[type=search] {
+ 
+      width: 100%;
+      align-items: center;      
+    }
+    
+    }
+  
+
+  .pa2 input[type=search] {
+    border: none;
+  }
+
+ 
